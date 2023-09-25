@@ -40,4 +40,4 @@ async def on_message(message: Message):
         if len(attachs)==0:
             await message.delete()
     
-bot.run('MTE0Nzk3MDA5MTIyMTI1ODMxMA.GbHQC2.vLJK3aEbX_pBdOMTMwyakr7JQ9oP-g938sIwbI')
+bot.run('MTE0Nzk3MDA5MTIyMTI1ODMxMA.G-qkz5.wKAo3DBeOMaifHrAzfolwWSX6Qj-r_sO8efXDM')
